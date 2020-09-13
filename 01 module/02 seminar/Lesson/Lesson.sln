@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random", "reandom\Random.csproj", "{EC9CFC04-A81E-4F15-9762-399EC5D9295C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacchi", "Fibonacchi\Fibonacchi.csproj", "{1942032B-0BE3-4EDB-B567-963DF9C6FE44}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Окружность", "окружность\Окружность.csproj", "{93372EED-887A-4AC8-AECF-CB47790FC71C}"
@@ -15,16 +13,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Столбик", "Стол�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Координаты и круг", "Координаты и круг\Координаты и круг.csproj", "{4FC6A1C6-4919-4C89-AB0A-41047ECD81F5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random", "Random\Random.csproj", "{B4A4DE3F-A997-4457-9D50-ABB0784CBD9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC9CFC04-A81E-4F15-9762-399EC5D9295C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC9CFC04-A81E-4F15-9762-399EC5D9295C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC9CFC04-A81E-4F15-9762-399EC5D9295C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC9CFC04-A81E-4F15-9762-399EC5D9295C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1942032B-0BE3-4EDB-B567-963DF9C6FE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1942032B-0BE3-4EDB-B567-963DF9C6FE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1942032B-0BE3-4EDB-B567-963DF9C6FE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{4FC6A1C6-4919-4C89-AB0A-41047ECD81F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FC6A1C6-4919-4C89-AB0A-41047ECD81F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FC6A1C6-4919-4C89-AB0A-41047ECD81F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A4DE3F-A997-4457-9D50-ABB0784CBD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A4DE3F-A997-4457-9D50-ABB0784CBD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A4DE3F-A997-4457-9D50-ABB0784CBD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A4DE3F-A997-4457-9D50-ABB0784CBD9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
