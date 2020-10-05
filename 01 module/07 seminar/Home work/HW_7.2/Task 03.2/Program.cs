@@ -29,9 +29,9 @@ namespace Task_02
                 }
             }
 
-            for (uint i = 0; i < N - 1; i++)
+            for (int i = 0; i < N - 1; i++)
             {
-                for (uint j = N - 2 - i; j >= 0; j--)
+                for (int j = (int)(N - 2 - i); j >= 0; j--)
                 {
                     myArray[i][j] = ' ';
                 }
