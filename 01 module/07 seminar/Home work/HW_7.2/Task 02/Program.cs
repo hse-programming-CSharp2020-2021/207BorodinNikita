@@ -6,39 +6,27 @@ namespace Task_02
     {
         static void Main(string[] args)
         {
-            if (!uint.TryParse(Console.ReadLine(), out uint N))
+            if (!uint.TryParse(Console.ReadLine(), out uint N) || N % 2 == 0)
             {
                 Console.WriteLine("Incorrect input");
                 return;
             }
 
-            uint iterator = 0;
+            char[][] myArray = new char[N][];
 
-            while (iterator * iterator / 2 < N)
+            for (uint i = 0; i < N; i++)
             {
-                iterator++;
-            }
-
-            uint[][] myArray = new uint[iterator][];
-
-            for (uint i = 0; i < iterator; i++)
-            {
-                if (N > i)
                 {
-                    myArray[i] = new uint[i + 1];
-                }
-                else
-                {
-                    myArray[i] = new uint[N];
+                    myArray[i] = new char[i + 1];
                 }
 
-                for (int j = 0; j <= i && N > 0; j++)
+                for (int j = 0; j <= i; j++)
                 {
-                    myArray[i][j] = N--;
+                    myArray[i][j] = '*';
                 }
             }
 
-            for (int i = 0; i < iterator; i++)
+            for (int i = 0; i < myArray.Length; i++)
             {
                 for (int j = 0; j < myArray[i].Length; j++)
                 {
