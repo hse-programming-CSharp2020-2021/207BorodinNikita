@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Task_8
+namespace Task_08
 {
     class Point
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Task_9
+namespace Task_09
 {
     class LinearEquation
     {
