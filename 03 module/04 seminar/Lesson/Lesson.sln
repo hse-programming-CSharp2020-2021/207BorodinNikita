@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 05", "Task 05\Task 05.csproj", "{629A4DFF-5F22-4634-AEEA-046C9B4FA096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadachkaVotTakovoPlana", "ZadachkaVotTakovoPlana\ZadachkaVotTakovoPlana.csproj", "{59190B3F-64CC-4A20-BF87-FA812B4232E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629A4DFF-5F22-4634-AEEA-046C9B4FA096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629A4DFF-5F22-4634-AEEA-046C9B4FA096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629A4DFF-5F22-4634-AEEA-046C9B4FA096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629A4DFF-5F22-4634-AEEA-046C9B4FA096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59190B3F-64CC-4A20-BF87-FA812B4232E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59190B3F-64CC-4A20-BF87-FA812B4232E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59190B3F-64CC-4A20-BF87-FA812B4232E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59190B3F-64CC-4A20-BF87-FA812B4232E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DB621D-E695-4AC2-9CB4-8FFBEE83396D}
+	EndGlobalSection
+EndGlobal

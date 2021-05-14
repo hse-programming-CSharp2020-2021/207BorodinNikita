@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01", "Task 01\Task 01.csproj", "{96FB2AE1-6450-442A-B75A-0B5EC5CE1CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 05", "Task 5\Task 05.csproj", "{899BE3F9-DAB6-4CB4-AE93-1F576DD1518A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Zadachka", "Task Zadachka\Task Zadachka.csproj", "{DB5BEAB0-673A-459D-8016-C94B7558FDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FB2AE1-6450-442A-B75A-0B5EC5CE1CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FB2AE1-6450-442A-B75A-0B5EC5CE1CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FB2AE1-6450-442A-B75A-0B5EC5CE1CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FB2AE1-6450-442A-B75A-0B5EC5CE1CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899BE3F9-DAB6-4CB4-AE93-1F576DD1518A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899BE3F9-DAB6-4CB4-AE93-1F576DD1518A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899BE3F9-DAB6-4CB4-AE93-1F576DD1518A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899BE3F9-DAB6-4CB4-AE93-1F576DD1518A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5BEAB0-673A-459D-8016-C94B7558FDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5BEAB0-673A-459D-8016-C94B7558FDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5BEAB0-673A-459D-8016-C94B7558FDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5BEAB0-673A-459D-8016-C94B7558FDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6EFC91A-FFC0-4700-BFA0-A561D0D30340}
+	EndGlobalSection
+EndGlobal
